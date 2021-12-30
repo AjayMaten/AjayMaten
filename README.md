@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AjayMaten
+- 👋 Hi, I’m @Manjunath Teja N
 - 👀 I’m interested in Front end Web Development!
 - 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on ...
