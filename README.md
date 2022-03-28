@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end Web Development!
 - 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Mailto:manjunathtejan@tejware.com
 
 <!---
 AjayMaten/AjayMaten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
