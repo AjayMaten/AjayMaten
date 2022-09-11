@@ -2,7 +2,7 @@
 -    Currently working in TCS as system Engineer
 - 👀 I’m interested in Testing and web Development.
 - 🌱 I’m currently learning FrontEnd Web Development!
-- 📫 Mailto:manjunathtejan1@gmail.com
+- 📫 Mailto:manjunathmmh2@gmail.com
 
 <!---
 AjayMaten/AjayMaten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
